@@ -1,0 +1,9 @@
+﻿  tracking.cpp
+c:\users\admin\documents\visual studio 2017\projects\vision_project\vision_project\tracking.cpp(31): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2017\projects\vision_project\vision_project\tracking.cpp(151): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2017\projects\vision_project\vision_project\tracking.cpp(152): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2017\projects\vision_project\vision_project\tracking.cpp(65): warning C4101: 'e2': unreferenced local variable
+c:\users\admin\documents\visual studio 2017\projects\vision_project\vision_project\tracking.cpp(65): warning C4101: 'e1': unreferenced local variable
+c:\users\admin\documents\visual studio 2017\projects\vision_project\vision_project\tracking.cpp(66): warning C4101: 't': unreferenced local variable
+  vision_project.vcxproj -> C:\Users\admin\documents\visual studio 2017\Projects\vision_project\x64\Debug\vision_project.exe
+  vision_project.vcxproj -> C:\Users\admin\documents\visual studio 2017\Projects\vision_project\x64\Debug\vision_project.pdb (Partial PDB)

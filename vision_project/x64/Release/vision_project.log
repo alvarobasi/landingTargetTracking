@@ -1,0 +1,11 @@
+﻿  tracking.cpp
+tracking.cpp(27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+tracking.cpp(54): warning C4101: 'e2': unreferenced local variable
+tracking.cpp(54): warning C4101: 'e1': unreferenced local variable
+tracking.cpp(55): warning C4101: 't': unreferenced local variable
+  Generating code
+  52 of 371 functions (14.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    45 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  vision_project.vcxproj -> C:\Users\admin\documents\visual studio 2017\Projects\vision_project\x64\Release\vision_project.exe
